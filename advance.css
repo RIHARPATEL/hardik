@@ -1,0 +1,362 @@
+.maincontanier 
+{
+ width:1080px;
+ height:1050px;
+margin-left:200px;
+    background: white
+
+}
+form{
+    margin-left:580px;
+    margin-top:-17px;
+}
+}
+.header{
+    width:900px;
+    height:100px;
+    margin-left:50px;
+    margin-right:20px;
+   
+    
+    
+}
+.searchbtn{
+    background-image: url(images/search_btn.gif);
+    width:20px;
+    height: 22px;
+    margin-left: -4px;
+    margin-top: 6px;
+}
+#nav{
+    width:980px;
+    height:15px;
+    margin-left:50px;
+    margin-right:20px;
+    
+    
+}
+#nav ul{
+    margin:0px;
+    padding: 0px;
+    background-color: gainsboro;
+    
+}
+#nav li a {
+    display:block;
+   
+    
+}
+
+#nav ul li{
+list-style-type: none;
+ display: inline-block;
+   
+ height:30px;
+   
+    
+    
+    
+}
+#nav ul li a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+#nav ul li a:hover {
+    background-color:#153972;
+    color: white;
+     height:20px;
+   
+   
+     
+}
+#navi{
+     background-image: url(images/resStepDividerPrevious.gif);
+}
+#nav2{
+    width:980px;
+    height:35px;
+    margin-left:50px;
+   
+    margin-top: 40px;
+   
+   
+
+    
+}
+#nav2 ul{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+#nav2 li a{
+    display: block;
+    
+    
+}
+#nav2 ul li {
+    list-style-type: none;
+    display: inline-block;
+ 
+    height:30px;
+}
+#nav2 ul li a{
+    text-decoration: none;
+    padding-right: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+   
+}
+nav2 ul li a:hover {
+    background-color:#153972;
+    color: white;
+     height:25px;   
+}
+
+.hardik{
+    margin-left:-5px;
+    margin-top:0px;
+    width:30px;
+    height:30px;
+    float: left;
+    position: absolute;
+    
+}
+.hardik1{
+     margin-left:285px;
+    margin-top:-29px;
+    width:30px;
+    height:30px;
+    float: left;
+    position: absolute;
+}
+.block1{
+   width: 700px;
+    height: 100px;
+    margin-left: 50px;
+   
+   
+    float: left;
+    background: white;
+}
+
+.block2{
+   width: 700px;
+    height: 100px;
+    margin-left: 50px;
+   
+    
+    float: left;
+    background: #e6e6e6;
+}
+
+.carprice{
+    width:110px;
+    height:70px;
+    margin-left:20px;
+    margin-top: 10px;
+    padding-top:10px;
+    
+    font-size: 15px;
+    float:left;
+}
+.button{
+    
+    background-color:#000099;
+     border:none;
+    color: white;
+   margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+   
+    cursor: pointer;
+    width: 90px;
+    height:20px;
+}
+.button:hover{
+    background:green;
+    color: white;
+}
+.smallblockforcar{
+     width:140px;
+     height:70px;
+     margin-left: 37px;
+     margin-top:10px;
+     padding-top:10px;
+     
+     font-size: 15px;
+     float:left;
+}
+.interior
+{
+     width:160px;
+     height:70px;
+     margin-left: 332px;
+     margin-top:10px;
+     padding-top:10px;
+     
+     font-size: 15px;
+    padding-left:10px;
+}
+.insideinterior
+{
+    width:150px;
+    height:15px;
+    
+}
+.exterior
+{
+     width:160px;
+     height:80px;
+     margin-left: 508px;
+     margin-top: -81px;
+    
+     
+     font-size: 15px;
+}
+.firstrightblock
+{
+  width:270px;
+    height:310px;
+    margin-right:250px;
+    margin-left:750px;
+    
+    background: #d8eff3;
+       
+}
+.secondrightblock{
+   width:270px;
+    height:200px;
+    margin-right:250px;
+    margin-left:750px;
+   
+       
+}
+#navfooter1{
+    width:265px;
+    height:145px;
+    margin-top:215px;
+    margin-left:52px;
+    border-image: url(images/footer-divider-grad.png);
+    background: #d8eff3;
+}
+#navfooter1 ul{
+    margin-left:15px;
+    margin-top:-80px;
+    padding: 15px;
+    
+}
+#navfooter1 ul li {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.signupbtn{
+    
+    width:52px;
+    height: 22px;
+    margin-left: -4px;
+    margin-top:5px;
+    color: white;
+    background: #000099;
+}
+
+#navfooter2{
+     width:239px;
+    height:145px;
+    margin-top:-154px;
+    margin-left:316px;
+  
+    background:#d8eff3;
+    
+    
+}
+#navfooter2 ul{
+    margin-top: 10px;
+    margin-left: 10px;
+   
+    
+}
+#navfooter2 li a{
+
+} 
+#navfooter2 ul li {
+    list-style-type: none;
+    margin-left:1px 3px;
+   
+}
+#navfooter2 ul li a {
+    text-decoration: none;
+    display: block;
+   
+}
+#navfooter2 ul li a:hover{
+    color: black;
+}
+
+#navfooter3{
+     width:239px;
+    height:145px;
+    margin-top:-160px;
+    margin-left:555px;
+    border-image: url(images/footer-divider-grad.png);
+    background:#d8eff3;
+    
+}
+#navfooter3 ul{
+    margin: none;
+    padding:none;
+   
+    
+}
+
+#navfooter3 ul li {
+    list-style-type: none;
+    margin-left:1px 5px;
+   
+}
+#navfooter3 ul li a {
+    text-decoration: none;
+    display: block;
+   
+}
+#navfooter3 ul li a:hover{
+    color: black;
+}
+
+#navfooter4{
+     width:235px;
+    height:144px;
+    margin-top:-144px;
+    margin-left:794px;
+    border-image: url(images/footer-divider-grad.png);
+    float:left;
+    background:#d8eff3;
+    
+}
+
+#navfooter4 ul{
+    margin: none;
+    padding:none;
+   
+    
+}
+
+#navfooter4 ul li {
+    list-style-type: none;
+    margin-left:1px 5px;
+   
+}
+#navfooter4 ul li a {
+    text-decoration: none;
+    display: block;
+   
+}
+#navfooter4 ul li a:hover{
+    color: black;
+}
+
+
