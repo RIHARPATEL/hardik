@@ -1,0 +1,126 @@
+body{
+    font-family: "Trebuchet MS";
+    font-size: 12px;
+}
+
+.input150{
+  width: 150px;
+  height: 22px;
+  *height: 25px;
+  *padding-top: 2px;
+  *padding-left: 2px;
+  font-family: "Trebuchet MS";
+}
+
+.input200{
+  width: 200px;
+  height: 22px;
+  *height: 25px;
+  *padding-top: 2px;
+  *padding-left: 2px;
+  font-family: "Trebuchet MS";
+}
+
+.input300{
+  width: 300px;
+  height: 20px;
+  padding-top: 2px;
+  padding-left: 2px;
+  font-family: "Trebuchet MS";
+}
+
+.input400{
+  width: 400px;
+  height: 20px;
+  padding-top: 2px;
+  padding-left: 2px;
+  font-family: "Trebuchet MS";
+}
+
+.inputAUTO{
+  width: 95%;
+  height: 22px;
+  *height: 25px;
+  *padding-top: 2px;
+  *padding-left: 2px;
+  font-family: "Trebuchet MS";
+}
+
+table.donationForm {
+	border-width: 1px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: gray;
+	border-collapse: collapse;
+	background-color: white;
+}
+table.donationForm th {
+	border-width: thin;
+	padding: 3px;
+	border-style: solid;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+    background: url(/partnerportal/images/amex/form-head.png) no-repeat;
+    background-size: 100%;
+}
+table.donationForm td {
+	border-width: 1px;
+	padding: 3px;
+	border-style: solid;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+donationFormDetails{
+}
+
+table.donationFormDetails td {
+	border-width: 0px;
+	padding: 3px;
+	border-style: none;
+	border-color: gray;
+	background-color: #efefef;
+	-moz-border-radius: 0px 0px 0px 0px;
+	text-align:left;	
+}
+
+.amount{
+    text-align:right;
+}
+
+.sponsorData{
+    display:none;
+}
+
+.cartRows{
+    text-align:left;
+}
+.totalRow{
+    display:none;
+}
+
+.Error{
+    border: 2px solid red;    
+}
+
+.errorMessage{
+    display:none;
+    color: red;
+	text-align: left;
+}
+
+.ValidationSummary{
+    display:none;
+    color: red;
+	text-align: left;
+}
+
+.organisation{
+	display:none;
+}
+
+
+#Rt td 
+{ background-color:white;}
