@@ -1,0 +1,11 @@
+Filter:
+<select  ng-model="text" >
+    <option ng-repeat=" x in file">{{x.name}}</option>
+</select>
+
+<ul >
+    <li ng-repeat=" x in file1|filter:text ">{{x.name }}
+
+    </li>
+</ul>
+</div>

@@ -1,0 +1,15 @@
+<style>
+    li{
+        display: inline;
+    }
+</style>
+       <input type="text" ng-model="hello">
+<h2>tab2</h2>
+<img ng-src="{{current}}" width="200px" height="200px">
+
+<ul>
+
+    <li  ng-repeat="x in image"><img ng-src="{{x}}" ng-model="current" width="200px" height="200px" ng-click="mythumb(x)" > 
+  
+    </li>
+</ul>
